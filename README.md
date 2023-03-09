@@ -34,5 +34,6 @@ I'm a very passionate entrepreneur, combining Full Stack Dev+OPS. I've different
 ## 🌐 Contact me
 
 [![Stackoverflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/4441553/maxirodr)
+[![Github](https://img.shields.io/badge/Github-black?logo=Github&logoColor=f5f5f5?logo=github&logoColor=white)](https://github.com/maxirodr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maximiliano-rodr%C3%ADguez-93626273/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maxirodr) 
